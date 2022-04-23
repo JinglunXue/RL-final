@@ -40,4 +40,4 @@ The following lines can be used to get the performance of agent using base-stock
 
 - python BLE.py
 
-The results are writed into the excel files in the EVAL0 file in current directory.
+The results are writed into the excel files in the overviews files in current directory.
