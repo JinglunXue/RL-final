@@ -4,7 +4,7 @@ Link to paper: https://www.ssrn.com/abstract=3804655
 
 ### Abstract:
 
-This paper focus on the learning process and ultimate performance of DRL for perishable inventory control. The authors demonstrate how potential-based reward shaping can be used to leverage domain knowledge embedded in heuristic inventory policies, which is called 'the teacher policy'. They consider two teacher policies here: base-stock policy and a modied base-stock policy with estimates of waste (BSP-low-EW). They find that applying their approach using existing replenishment policies may not only reduce firms' replenishment costs, the increased stability may also help to gain trust in the policies obtained by black box DRL algorithms. This work use pytorch instead of keras, and  further investigate the impact of different loss function (L1 loss) , and the impact of different network structure.
+This paper focus on the learning process and ultimate performance of DRL for perishable inventory control. The authors demonstrate how potential-based reward shaping can be used to leverage domain knowledge embedded in heuristic inventory policies, which is called 'the teacher policy'. They consider two teacher policies here: base-stock policy and a modeld base-stock policy with estimates of waste (BSP-low-EW). They find that applying their approach using existing replenishment policies may not only reduce firms' replenishment costs, the increased stability may also help to gain trust in the policies obtained by black box DRL algorithms. This work use pytorch instead of keras, and  further investigate the impact of different loss function (L1 loss) , and the impact of different network structure.
 
 ### Code Structure:
 
